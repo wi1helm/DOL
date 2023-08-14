@@ -1,0 +1,2 @@
+Controlls: Hold and release space to fish.
+           Then press space to reel in.   
